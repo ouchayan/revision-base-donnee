@@ -5,3 +5,4 @@
 - MyIsam : non transactionnel, non relationnel, pour des petit projet, bien pour des requetes d'affichage et création
 - InnoDb : Transactionnel, Relationnel, Pour les grand projet.
 - CREATE TABLE TOTO(.....)ENGINE=InnoDB; CREATE TABLE TOTO(.....)ENGINE=MyIsam; 
+## Mysql : Transactions :
